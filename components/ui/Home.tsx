@@ -8,7 +8,7 @@ export default function Home() {
         <Text style={styles.magic}>Bring Magic To Home</Text>
         <Text style={styles.description}>
           Effective office design boosts productivity and employee well-being by
-          blending functionality with aesthetic appeal.
+          blending functionality with aesthetic improve.
         </Text>
       </View>
 
